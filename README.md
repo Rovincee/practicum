@@ -1,2 +1,3 @@
-# Mobile_Shopee-E-Commerce-Website
-In this complete E-commerce Website, We will take a look at how to create Mobile Shopee Using PHP and Mysql Database. We gonna start by creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display it in the project.
+Beach view Hotel is an online room booking system where customers can book rooms online.
+We used php blended with javascript to build the system.
+Designed by Rovince Okinyi Otieno of Baraton University.
